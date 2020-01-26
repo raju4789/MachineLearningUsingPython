@@ -13,12 +13,12 @@ This repository includes all my Data Science and Machine Learning academic proje
 
 ## Table of Contents
 1. [EDA](#section1)<br>
-    -1.1 [Bus Bookings](#section101)
+    -1.1 [Bus Bookings](#section101)<br>
     -1.2 [IPL](#section102)<br>
 2. [ML](#section2)<br>
-    -2.1 [House Price Prediction](#section201)
-    -2.2 [Train Passenger Volume](#section202)
-    -2.3 [Songs Views Prediction](#section203)
+    -2.1 [House Price Prediction](#section201)<br>
+    -2.2 [Train Passenger Volume](#section202)<br>
+    -2.3 [Songs Views Prediction](#section203)<br>
     -2.4 [Video Views Prediction](#section204)<br>
 
 
