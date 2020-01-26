@@ -63,5 +63,21 @@ ___
 - Here we are trying to predict passenger volume over time.
 - [Link for the Jupyter notebook](./ML/Train%20Passenger%20Volume/TrainPassengerVolume.ipynb)
 
+___
+<a id=section203></a>
+#### [Songs Views Prediction](./ML/Songs%20Views%20Prediction)
+![image.jpg](./ML/Songs%20Views%20Prediction/images/Music.jpg)<br><br>
+- One of our customers strongly believes in technology and has recently backed up its platform using Machine Learning and Artificial Intelligence. Based on data collected from multiple sources on different songs and various artist attributes our customer is excited to challenge the MachineHack community.
+-By analyzing the chartbusters data to predict the Views of songs, MachineHackers would advance the state of the current platform. This can help our customer understand user behaviour and personalize the user experience. 
+In this hackathon, we challenge the MachineHackers to come up with a prediction algorithm that can predict the views for a given song.
+- Here we are trying to predict how popular a song will be in the future.
+- [Link for the Jupyter notebook](./ML/Songs%20Views%20Prediction/ChartBustersParticipants.ipynb)
+
+<a id=section203></a>
+#### [Video Views Prediction](./ML/Video%20Views%20Prediction)
+![image.jpg](https://ak1.picdn.net/shutterstock/videos/31824931/thumb/12.jpg)<br><br>
+- Here we are trying to predict how popular a song will be in the future.
+- [Link for the Jupyter notebook](./ML/Video%20Views%20Prediction/VideoViewsPrediction.ipynb)
+
 ## Projects in execution
 
