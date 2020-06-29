@@ -20,6 +20,7 @@ This repository includes all my Data Science and Machine Learning academic proje
     -2.2 [Train Passenger Volume](#section202)<br>
     -2.3 [Songs Views Prediction](#section203)<br>
     -2.4 [Video Views Prediction](#section204)<br>
+    -2.5 [Server Hack Prediction](#section204)<br>
 
 
 ___
@@ -39,7 +40,7 @@ search and booking, growth in low cost carriers, have further added to the growt
 ___
 <a id=section102></a>
 #### 1.2 [IPL](./EDA/IPL)
-![image.jpg](https://www.larutadelsorigens.cat/filelook/full/119/1191765/rcb-hd-wallpapers-free-download.jpg)<br><br>
+![image.jpg](./images/IPL.jpg)<br><br>
 - The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2008. The IPL has an exclusive window in ICC Future Tours Programme. 
 - All Indian Premier League Cricket matches data between 2008 and 2018. Data contains details related to the match such as location, contesting teams, umpires, results, etc.
 - [Link for the Jupyter notebook](./EDA/IPL/IPL_DATA_EDA.ipynb)
@@ -80,6 +81,15 @@ In this hackathon, we challenge the MachineHackers to come up with a prediction 
 ![image.jpg](https://ak1.picdn.net/shutterstock/videos/31824931/thumb/12.jpg)<br><br>
 - Here we are trying to predict how popular a song will be in the future.
 - [Link for the Jupyter notebook](./ML/Video%20Views%20Prediction/VideoViewsPrediction.ipynb)
+
+
+<a id=section204></a>
+#### 2.4 [Server Hack Prediction](./ML/Server%20Hack%20Prediction)
+![image.jpg](https://ak1.picdn.net/shutterstock/videos/31824931/thumb/12.jpg)<br><br>
+- All the countries across the globe have adapted to means of digital payments. And with the increased volume of digital payments, hacking has become a pretty common event wherein the hacker can try to hack your details just with your phone number linked to your bank account. However, there is data with some anonymized variables based on which one can predict that the hack is going to happen. 
+Your work is to build a predictive model which can identify a pattern in these variables and suggest that a hack is going to happen so that the cyber security can somehow stop it before it actually happens. You have to predict the column : "MALICIOUS_OFFENSE".
+- [Link for the Jupyter notebook v1](./ML/Server%20Hack%20Prediction/v1/ServerHackPrediction_v1.ipynb)
+- [Link for the Jupyter notebook v2](./ML/Server%20Hack%20Prediction/v2/ServerHackPrediction_v2.ipynb)
 
 ## Projects in execution
 
