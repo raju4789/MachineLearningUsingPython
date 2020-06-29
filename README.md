@@ -40,7 +40,7 @@ search and booking, growth in low cost carriers, have further added to the growt
 ___
 <a id=section102></a>
 #### 1.2 [IPL](./EDA/IPL)
-![image.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhdsportsnews.com%2Fwp-content%2Fuploads%2F2020%2F01%2F1578248592_vivo-ipl-2020-schedule-pdf-download-time-table-match-list-date-640x300.jpg&imgrefurl=https%3A%2F%2Fhdsportsnews.com%2F2020%2F01%2F07%2Fvivo-ipl-2020-schedule-pdf-download-time-table-match-list-date%2F&tbnid=5NVOngDjAACrqM&vet=12ahUKEwiU8afe_abqAhVTGnIKHfisBJMQMygHegUIARDJAQ..i&docid=x8HVxmf_6lqeoM&w=640&h=300&q=IPL%20hd%20images&ved=2ahUKEwiU8afe_abqAhVTGnIKHfisBJMQMygHegUIARDJAQ)<br><br>
+![image.jpg](./images/IPL.jpg)<br><br>
 - The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2008. The IPL has an exclusive window in ICC Future Tours Programme. 
 - All Indian Premier League Cricket matches data between 2008 and 2018. Data contains details related to the match such as location, contesting teams, umpires, results, etc.
 - [Link for the Jupyter notebook](./EDA/IPL/IPL_DATA_EDA.ipynb)
