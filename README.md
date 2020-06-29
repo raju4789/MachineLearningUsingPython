@@ -20,6 +20,7 @@ This repository includes all my Data Science and Machine Learning academic proje
     -2.2 [Train Passenger Volume](#section202)<br>
     -2.3 [Songs Views Prediction](#section203)<br>
     -2.4 [Video Views Prediction](#section204)<br>
+    -2.5 [Server Hack Prediction](#section204)<br>
 
 
 ___
@@ -80,6 +81,15 @@ In this hackathon, we challenge the MachineHackers to come up with a prediction 
 ![image.jpg](https://ak1.picdn.net/shutterstock/videos/31824931/thumb/12.jpg)<br><br>
 - Here we are trying to predict how popular a song will be in the future.
 - [Link for the Jupyter notebook](./ML/Video%20Views%20Prediction/VideoViewsPrediction.ipynb)
+
+
+<a id=section204></a>
+#### 2.4 [Server Hack Prediction](./ML/Server%20Hack%20Prediction)
+![image.jpg](https://ak1.picdn.net/shutterstock/videos/31824931/thumb/12.jpg)<br><br>
+- All the countries across the globe have adapted to means of digital payments. And with the increased volume of digital payments, hacking has become a pretty common event wherein the hacker can try to hack your details just with your phone number linked to your bank account. However, there is data with some anonymized variables based on which one can predict that the hack is going to happen. 
+Your work is to build a predictive model which can identify a pattern in these variables and suggest that a hack is going to happen so that the cyber security can somehow stop it before it actually happens. You have to predict the column : "MALICIOUS_OFFENSE".
+- [Link for the Jupyter notebook v1](./ML/Server%20Hack%20Prediction/v1/ServerHackPrediction_v1.ipynb)
+- [Link for the Jupyter notebook v2](./ML/Server%20Hack%20Prediction/v2/ServerHackPrediction_v2.ipynb)
 
 ## Projects in execution
 
