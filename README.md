@@ -87,7 +87,7 @@ In this hackathon, we challenge the MachineHackers to come up with a prediction 
 
 <a id=section205></a>
 ### [2.5 Server Hack Prediction](./ML/Server%20Hack%20Prediction)
-![image.jpg](https://ak1.picdn.net/shutterstock/videos/31824931/thumb/12.jpg)<br><br>
+![image.jpg](./images/Server.jpeg)<br><br>
 - All the countries across the globe have adapted to means of digital payments. And with the increased volume of digital payments, hacking has become a pretty common event wherein the hacker can try to hack your details just with your phone number linked to your bank account. However, there is data with some anonymized variables based on which one can predict that the hack is going to happen. 
 Your work is to build a predictive model which can identify a pattern in these variables and suggest that a hack is going to happen so that the cyber security can somehow stop it before it actually happens. You have to predict the column : "MALICIOUS_OFFENSE".
 - [Link for the Jupyter notebook v1](./ML/Server%20Hack%20Prediction/v1/ServerHackPrediction_v1.ipynb)
