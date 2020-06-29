@@ -8,24 +8,24 @@ __Machine Learning focuses on the development of computer programs__ that can ac
 The process of learning begins with data, such as, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. __The primary aim is to allow the computers learn automatically__ without human intervention or assistance and adjust actions accordingly.
 ![image.png](images/DS_FlowChart.png)<br><br>
 
-## Repository Overview
+# Repository Overview
 This repository includes all my Data Science and Machine Learning academic projects till date.
 
-## Table of Contents
-[1. EDA](#section1)<br>
-        -[1.1 Bus Bookings](#section101)<br>
-        -[1.2 IPL](#section102)<br><br>
-[2. ML](#section2)<br>
-        -[2.1 House Price Prediction](#section201)<br>
-        -[2.2 Train Passenger Volume](#section202)<br>
-        -[2.3 Songs Views Prediction](#section203)<br>
-        -[2.4 Video Views Prediction](#section204)<br>
-        -[2.5 Server Hack Prediction](#section204)<br>
+# Table of Contents
+## [1. EDA](#section1)<br>
+        ### -[1.1 Bus Bookings](#section101)<br>
+        ### -[1.2 IPL](#section102)<br><br>
+## [2. ML](#section2)<br>
+        ### -[2.1 House Price Prediction](#section201)<br>
+        ### -[2.2 Train Passenger Volume](#section202)<br>
+        ### -[2.3 Songs Views Prediction](#section203)<br>
+        ### -[2.4 Video Views Prediction](#section204)<br>
+        ### -[2.5 Server Hack Prediction](#section204)<br>
 
 
 ___
 <a id=section1></a>
-### [1. EDA](./EDA)
+## [1. EDA](./EDA)
 
 <a id=section101></a>
 ### [1.1 Bus Bookings](./EDA/Bus%20Bookings)
