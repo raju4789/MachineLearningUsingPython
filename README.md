@@ -61,14 +61,11 @@ to help its clients better understand and interact with their audiences.
 
 - **Business Goal :**
 
-To help the customer the consultants are expected to have depth of clarity in the underlying data.
-How much effort has been put into cleansing and purifying the data will decide how closely have you looked at the data.
-How detailed is the observation stated in the submission report and finally how well a group presents their consulting journey.
+   -- To help the customer the consultants are expected to have depth of clarity in the underlying data.
+      How much effort has been put into cleansing and purifying the data will decide how closely have you looked at the data.
+      How detailed is the observation stated in the submission report and finally how well a group presents their consulting journey.
 
-Please remember this is an analytics consulting hence, your efforts in terms of
-finding user behavior is going to directly impact the company's offerings.
-Do help the company understand what is the
-right way forward and suggest actionable insights from marketing and product terms.
+   -- Please remember this is an analytics consulting hence, your efforts in terms of finding user behavior is going to directly impact the company's offerings.         Do help the company understand what is the right way forward and suggest actionable insights from marketing and product terms.
 - [Link for the Jupyter notebook](./EDA/IPL/IPL_DATA_EDA.ipynb)
 
 
