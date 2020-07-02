@@ -66,7 +66,7 @@ to help its clients better understand and interact with their audiences.
       How detailed is the observation stated in the submission report and finally how well a group presents their consulting journey.
 
    -- Please remember this is an analytics consulting hence, your efforts in terms of finding user behavior is going to directly impact the company's offerings.         Do help the company understand what is the right way forward and suggest actionable insights from marketing and product terms.
-- [Link for the Jupyter notebook](./EDA/IPL/IPL_DATA_EDA.ipynb)
+- [Link for the Jupyter notebook](.EDA/INSAID%20Telecom/InsaidTelecom.ipynb)
 
 
 ___
