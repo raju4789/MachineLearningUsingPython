@@ -14,7 +14,9 @@ This repository includes all my Data Science and Machine Learning academic proje
 # Table of Contents
 ## [1. EDA](#section1)<br>
    ### - [1.1 Bus Bookings](#section101)<br>
-   ### - [1.2 IPL](#section102)<br><br>
+   ### - [1.2 IPL](#section102)<br>
+   ### - [1.3 INSAID Telecom](#section103)<br><br>
+
 ## [2. ML](#section2)<br>
  ### -[2.1 House Price Prediction](#section201)<br>
  ### -[2.2 Train Passenger Volume](#section202)<br>
@@ -45,6 +47,28 @@ ___
 ![image.jpg](./images/IPL.jpg)<br><br>
 - The Indian Premier League (IPL) is a professional Twenty20 cricket league in India contested during March or April and May of every year by eight teams representing eight different cities in India. The league was founded by the Board of Control for Cricket in India (BCCI) in 2008. The IPL has an exclusive window in ICC Future Tours Programme. 
 - All Indian Premier League Cricket matches data between 2008 and 2018. Data contains details related to the match such as location, contesting teams, umpires, results, etc.
+- [Link for the Jupyter notebook](./EDA/IPL/IPL_DATA_EDA.ipynb)
+
+
+___
+
+<a id=section103></a>
+### [1.3 INSAID Telecom](./EDA/IPL)
+- **InsaidTelecom**, one of the leading telecom players, understands that customizing offering
+is very important for its business to stay competitive.
+Currently, InsaidTelecom is seeking to leverage behavioral data from more than 60% of the 50 million mobile devices active daily in India
+to help its clients better understand and interact with their audiences.
+
+- **Business Goal :**
+
+To help the customer the consultants are expected to have depth of clarity in the underlying data.
+How much effort has been put into cleansing and purifying the data will decide how closely have you looked at the data.
+How detailed is the observation stated in the submission report and finally how well a group presents their consulting journey.
+
+Please remember this is an analytics consulting hence, your efforts in terms of
+finding user behavior is going to directly impact the company's offerings.
+Do help the company understand what is the
+right way forward and suggest actionable insights from marketing and product terms.
 - [Link for the Jupyter notebook](./EDA/IPL/IPL_DATA_EDA.ipynb)
 
 
