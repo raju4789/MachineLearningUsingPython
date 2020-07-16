@@ -22,7 +22,8 @@ This repository includes all my Data Science and Machine Learning academic proje
  ### -[2.2 Train Passenger Volume](#section202)<br>
  ### -[2.3 Songs Views Prediction](#section203)<br>
  ### -[2.4 Video Views Prediction](#section204)<br>
- ### -[2.5 Server Hack Prediction](#section205)<br><br>
+ ### -[2.5 Server Hack Prediction](#section205)<br>
+ ### -[2.6 Bank Deposit Prediction](#section206)<br><br>
 
 ## [3. Projects under execution](#section3)<br><br>
 
@@ -113,6 +114,12 @@ In this hackathon, we challenge the MachineHackers to come up with a prediction 
 Your work is to build a predictive model which can identify a pattern in these variables and suggest that a hack is going to happen so that the cyber security can somehow stop it before it actually happens. You have to predict the column : "MALICIOUS_OFFENSE".
 - [Link for the Jupyter notebook v1](./ML/Server%20Hack%20Prediction/v1/ServerHackPrediction_v1.ipynb)
 - [Link for the Jupyter notebook v2](./ML/Server%20Hack%20Prediction/v2/ServerHackPrediction_v2.ipynb)
+
+<a id=section206></a>
+### [2.6 Bank Deposit Prediction](./ML/Server%20Hack%20Prediction)
+![image.jpg](https://st2.depositphotos.com/1003593/5365/i/950/depositphotos_53656993-stock-photo-trends-growth-graph.jpg)<br><br>
+- The objective of the problem is to predict the amount that would be deposited in each branch in the year 2017.
+- [Link for the Jupyter notebook](./ML/Bank%20Deposit%20Prediction/Bank_Deposit_Prediction.ipynb)
 
 <a id=section3></a>
 ## Projects in execution
