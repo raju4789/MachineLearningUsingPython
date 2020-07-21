@@ -10,7 +10,8 @@ The process of learning begins with data, such as, direct experience, or instruc
 
 # Repository Overview
 This repository includes all my Data Science and Machine Learning academic projects till date.
-__NOTE__  Projects are listed in chronological order.
+
+__NOTE__  Projects are listed in chronological order of completion.
 
 # Table of Contents
 ## [1. EDA](#section1)<br>
